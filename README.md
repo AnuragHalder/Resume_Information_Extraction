@@ -5,7 +5,7 @@
 This script intends to implement a naive mechanism for extraction of: Name, Contact Number & Email Id from a collection of resumes and save it systematically in an excel (.xlsx) file.
 <br>
 <br>
-Extraction of phone number and email id: Simple regex is used 
+Extraction of phone number and email id: Simple regex is used <br>
 Extraction of name: Standford's NER is used which is currently the SOTA method to achieve Named Entity extraction
 <br>
 <br>
