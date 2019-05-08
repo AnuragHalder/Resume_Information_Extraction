@@ -10,6 +10,5 @@ Extraction of name: Standford's NER is used which is currently the SOTA method t
 <br>
 <br>
 The performance on the extraction of phone number and email id is fairly accurate and ready to be used/implemented. There remains a slight challenge in the named entity extraction but can be a good starting point for learning and correcting observed errors.  
-<br>
-<br>
+
 ![example xlsx output](https://i.imgur.com/mvWecKT.png)
